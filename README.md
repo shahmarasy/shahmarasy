@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://page8.ir/projects](https://page8.ir/projects)
+- 👨‍💻 All of my projects are available at [https://page8.ir/#/projects](https://page8.ir/#/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@shahmarasy](https://medium.com/@shahmarasy)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shahmarasy@gmail.com**
 
-- 📄 Know about my experiences [https://page8.ir/resume](https://page8.ir/resume)
+- 📄 Know about my experiences [https://page8.ir/#/experience](https://page8.ir/#/experience)
 
 - ⚡ Fun fact **Did you know that the creator of PHP, Rasmus Lerdorf, originally created it as a set of Common Gateway Interface (CGI) scripts called "Personal Home Page Tools" to help him maintain his personal website? It wasn't until later that he turned it into a standalone programming language that we now know as PHP.**
 
