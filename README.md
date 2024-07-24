@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/shahmarasy" target="blank"><img src="https://img.shields.io/twitter/follow/shahmarasy?logo=twitter&style=for-the-badge" alt="shahmarasy" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, GraphQL**
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 All of my projects are available at [https://page8.ir/#/projects](https://page8.ir/#/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@shahmarasy](https://medium.com/@shahmarasy)
 
-- 💬 Ask me about **PHP, Codeigniter, Laravel, Vuejs**
+- 💬 Ask me about **PHP, Codeigniter, Laravel, Redis, Python, Vuejs**
 
 - 📫 How to reach me **shahmarasy@gmail.com**
 
